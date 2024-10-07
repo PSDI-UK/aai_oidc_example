@@ -1,0 +1,7 @@
+fastapi[standard]
+httpx
+hypercorn[h3]
+cryptography==35.0.0
+PyJWT==1.7.1
+requests
+cachetools
